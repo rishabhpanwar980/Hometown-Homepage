@@ -1,0 +1,113 @@
+
+body {
+    height: 800px;
+    width: 720px;
+    margin: 0;
+    text-align: center;
+    margin: auto auto;
+    background: #F1FAEE;
+}
+
+img {
+    width: 100px;
+}
+
+
+.hero {
+    background-image: url(HawaMahal.jpg);
+    background-size: cover;
+    height: 250px;
+    width: 720px;
+    text-align: center;
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+    background: #457B9D;
+    margin: 50px 20px 1px 20px;
+    width: 200px;
+    height: 3opx;
+    border-radius: 10px;
+    font-size: 32px;
+}
+
+h2 {
+    color: white;
+    background: #1D3557;
+    margin: 5px 20px 0px 20px;
+    width: 350px;
+    border-radius: 10px;
+    font-size: 19px
+    
+}
+
+
+.activities {
+    background: #F1FAEE;
+    padding: 5px 10px 10px 10px;
+    height: 250px;
+    width: 720px;
+    
+}
+#pics {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    height: 99.34px;
+}
+
+#img1 {
+    text-align: center;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+
+#img2 {
+    text-align: center;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+
+#img3 {
+     text-align: center;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+.guide {
+    background: #A8DADC;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto auto;
+    color: #1D3557;
+    border-radius: 10px;
+    border-bottom: 10px solid #1D3557;
+    border: 2px solid black
+}
+
+.avtar {
+    width: 150px;
+    height: 170px;
+    padding: 10px 20px;
+}
+
+.main-guide {
+    background: white;
+    padding-top: 30px;
+    /* padding-bottom: 30px; */
+    height: 250px;
+    width: 720px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+#line {
+    font-style: italic;
+}
+
